@@ -16,15 +16,15 @@ const MESSAGE = process.env.MESSAGE ||  `
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com
+https://github.com/ACD-MD-TEAM/ACD-MD-BOT-V1
 
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-
+https://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
 https://youtube.com
 
-*PASIYA-MD-1-WHATTSAPP-BOT* 🥀
+*ACD-MD-2-WHATTSAPP-BOT* 🥀
 `
 
 
